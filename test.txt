@@ -1,3 +1,5 @@
+/sap/opu/odata/sap/ZSAPASSISTANTODATA_SRV/COOISSet?$filter=IV_PLANT eq '1301' and IV_DISPO eq 'FD6' and IV_MATERIAL eq 'Z08833' and IV_FROMDATE eq '20250401' and IV_TODATE eq '20250422'
+
 {
     "result": [
         {
