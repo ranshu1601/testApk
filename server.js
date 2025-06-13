@@ -11,10 +11,10 @@ app.use(express.json());
 
 // Azure OpenAI Configuration
 const AZURE_CONFIG = {
-    endpoint: 'https://your-resource.openai.azure.com/',
-    apiKey: 'your-azure-openai-api-key',
-    deploymentName: 'gpt-4',
-    apiVersion: '2024-02-15-preview'
+    endpoint: 'https://sapgenaiassistant.openai.azure.com/openai/deployments/gpt-35-turbo-16k/chat/completions?api-version=2025-01-01-preview',
+    apiKey: '20eb40b941a243a3b545c6145e8411b1',
+    deploymentName: 'gpt-35-turbo',
+    apiVersion: '2025-01-01-preview'
 };
 
 // API Configurations - Configure your GRC and Service API details here
@@ -28,7 +28,7 @@ const API_CONFIGS = {
         }
     },
     service: {
-        baseUrl: 'https://your-service-api.com/api',
+        baseUrl: 'https://jci.service-now.com/api/jni/access_to_incident_and_service_request/getIncidentsByQuery?query=active=true^assignment_group=63d0a00ddbe44300f2fcdbbb5e96192c^u_affected_user!=b7ebc7c5db041f40e8b6d5ab5e961913',
         headers: {
             'Authorization': 'Bearer your-service-api-token',
             'Content-Type': 'application/json',
