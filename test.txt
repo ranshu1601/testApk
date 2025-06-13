@@ -4,6 +4,11 @@ Password:  2fht(Pwt_=mGu1Ss}t8d4o%9J>-?Xq:[TFR+&kO5
 JRANJAA6
 Asmita@123456789
 
+AZURE AI : 
+api link :
+https://sapgenaiassistant.openai.azure.com/openai/deployments/gpt-35-turbo-16k/chat/completions?api-version=2025-01-01-preview
+ 
+key : 20eb40b941a243a3b545c6145e8411b1
 
 
 {
