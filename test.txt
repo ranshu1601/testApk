@@ -1,4 +1,10 @@
-/sap/opu/odata/sap/ZSAPASSISTANTODATA_SRV/COOISSet?$filter=IV_PLANT eq '1301' and IV_DISPO eq 'FD6' and IV_MATERIAL eq 'Z08833' and IV_FROMDATE eq '20250401' and IV_TODATE eq '20250422'
+User : api_user_sap
+Password:  2fht(Pwt_=mGu1Ss}t8d4o%9J>-?Xq:[TFR+&kO5
+
+JRANJAA6
+Asmita@123456789
+
+
 
 {
     "result": [
