@@ -1,3 +1,151 @@
-test 
+{
+    "result": [
+        {
+            "Number": "INC8664293",
+            "Sys Id": "00b17e4f33b52650cd4878813d5c7bfe",
+            "Affected User": "Angelica Rocio De La Torre",
+            "Manager": "jherre69@jci.com",
+            "Global id": "jdelata1@jci.com",
+            "Email": "angelicarocio.delatorre.bueno@jci.com",
+            "Active": true,
+            "Status": "Pending",
+            "Source": "System",
+            "Priority": "5",
+            "Impact": "Minor/Localized",
+            "Urgency": "Low",
+            "Category": "Software",
+            "Type": "SAP",
+            "Item": "GP",
+            "Created on": "2025-06-02 17:17:58",
+            "Created by": "api_user_sap",
+            "Updated on": "2025-06-12 12:04:38",
+            "Updated by": "system",
+            "Title": "MISSING AUTHORIZATION: INFO RECORD CREATE PLANT 1203",
+            "Description": "Error message : Missing authorization: Info Record Create Plant 1203 . . System Name : YRP ,SAP User ID : JDELATA1 ,Tcode: ME11 ,Date: 2025-06-02 ,Time: 12:17:47 .",
+            "Assignment Group": "it.jc.sap-coe-l15.gl",
+            "Assigned to": "Udhaya Priyan U",
+            "Business Service": "SAP",
+            "Work notes": "2025-06-09 16:21:07 - Udhaya Priyan U (Work notes)\nFrom: CO-SAPCOE-ServiceDesk <CO-SAPCOE-ServiceDesk@jci.com>\r\nSent: 10 June 2025 02:50 AM\r\nTo: Angelica Rocio De La Torre Bueno <angelicarocio.delatorre.bueno@jci.com>\r\nCc: Udhaya Priyan U <udhayapriyan.u-ext@jci.com>\r\nSubject: Re: #INC8664293 - MISSING AUTHORIZATION: INFO RECORD CREATE PLANT 1203\r\n \r\nHi @Angelica Rocio De La Torre Bueno, \r\n\r\nGreetings of the day!\r\n\r\nWith Reference to ticket #INC8664293,\r\n\r\nKindly provide the transaction code which the authorization is missing. \r\n\r\nIf it is possible please try to execute the SU53 dump transaction when you are facing the authorization error.\r\n\r\nIf you do not know how to execute a SU53 dump, kindly follow the instructions mentioned in the attached file. \r\n\r\nLet us know if any further assistance needed.\r\n\r\nThanks & Regards,  \r\n\r\n  A picture containing font, logo, graphics, design\r\n\r\nDescription automatically generated \r\n\r\n   \r\n\r\n  \r\n\r\n   \r\n\r\nUdhaya Priyan U  \r\n\r\nInfosys – AMS SAP SECURITY - Consultant  \r\n\r\n   \r\n\r\nChennai, India  \r\nMobile: +91 7708272057  \r\n\r\n  \r\nEmail: udhayapriyan.u-ext@jci.com  \r\n\r\nInternet: www.johnsoncontrols.com  \r\n\r\n  \r\n\r\n  \r\n\r\nKindly use IBA tool to create ServiceNow Incidents/Service requests directly from SAP screen- Help Documents OR from SAP Digital Virtual assistant app in Teams - SAP Digital Assistant Help Documents \r\n\r\nNote: Full automation for Security Requests (Password Reset, User Unlock or Access Provisioning, check status) is now available for select SAP systems, with more coming soon! Check the training guide for details and start using the SAP Digital Assistant App, as we will be phasing out this Security SAP Service Desk feature. \r\n\r\n1st Escalation Point: amritha.d-ext@jci.com; dharmaraj.s-ext@jci.com \r\n\r\n2nd Escalation Point: kokila.anbarasu-ext@jci.com  \r\n\r\nEscalation Matrix\n\n2025-06-06 16:28:28 - Udhaya Priyan U (Work notes)\nrom: CO-SAPCOE-ServiceDesk <CO-SAPCOE-ServiceDesk@jci.com>\r\nSent: 07 June 2025 02:57 AM\r\nTo: Angelica Rocio De La Torre Bueno <angelicarocio.delatorre.bueno@jci.com>\r\nCc: Udhaya Priyan U <udhayapriyan.u-ext@jci.com>\r\nSubject: Re: #INC8664293 - MISSING AUTHORIZATION: INFO RECORD CREATE PLANT 1203\r\n \r\n< Gentle Reminder 1 > \r\n  \r\nHi @Angelica Rocio De La Torre Bueno,\r\n\r\nGreetings of the day! \r\n  \r\nA gentle reminder regarding the below mail. \r\n  \r\nKindly let us know if any further assistance is required.\r\n\r\nThanks & Regards,  \r\n\r\n  A picture containing font, logo, graphics, design\r\n\r\nDescription automatically generated \r\n\r\n   \r\n\r\n  \r\n\r\n   \r\n\r\nUdhaya Priyan U  \r\n\r\nInfosys – AMS SAP SECURITY - Consultant  \r\n\r\n   \r\n\r\nChennai, India  \r\nMobile: +91 7708272057  \r\n\r\n  \r\nEmail: udhayapriyan.u-ext@jci.com  \r\n\r\nInternet: www.johnsoncontrols.com  \r\n\r\n  \r\n\r\n  \r\n\r\nKindly use IBA tool to create ServiceNow Incidents/Service requests directly from SAP screen- Help Documents OR from SAP Digital Virtual assistant app in Teams - SAP Digital Assistant Help Documents \r\n\r\nNote: Full automation for Security Requests (Password Reset, User Unlock or Access Provisioning, check status) is now available for select SAP systems, with more coming soon! Check the training guide for details and start using the SAP Digital Assistant App, as we will be phasing out this Security SAP Service Desk feature. \r\n\r\n1st Escalation Point: amritha.d-ext@jci.com; dharmaraj.s-ext@jci.com \r\n\r\n2nd Escalation Point: kokila.anbarasu-ext@jci.com  \r\n\r\nEscalation Matrix\n\n2025-06-04 17:20:30 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-04 17:20:28 - System (Work notes)\nTransition Action Status Code and Message = 0;  Success\n\n2025-06-04 17:19:22 - Udhaya Priyan U (Work notes)\nFrom: CO-SAPCOE-ServiceDesk <CO-SAPCOE-ServiceDesk@jci.com>\r\nSent: 05 June 2025 03:48 AM\r\nTo: Angelica Rocio De La Torre Bueno <angelicarocio.delatorre.bueno@jci.com>\r\nSubject: Re: #INC8664293 - MISSING AUTHORIZATION: INFO RECORD CREATE PLANT 1203\r\n \r\nHi @Angelica Rocio De La Torre Bueno,\r\n\r\nGreetings of the day!\r\n\r\nWith Reference to ticket #INC8664293,\r\n\r\nKindly provide the reference user who can able to access the transaction which you need to process in SAP YRP system.\r\n\r\nLet me know if any further assistance needed.\r\n\r\nThanks & Regards,  \r\n\r\n  A picture containing font, logo, graphics, design\r\n\r\nDescription automatically generated \r\n\r\n   \r\n\r\n  \r\n\r\n   \r\n\r\nUdhaya Priyan U  \r\n\r\nInfosys – AMS SAP SECURITY - Consultant  \r\n\r\n   \r\n\r\nChennai, India  \r\nMobile: +91 7708272057  \r\n\r\n  \r\nEmail: udhayapriyan.u-ext@jci.com  \r\n\r\nInternet: www.johnsoncontrols.com  \r\n\r\n  \r\n\r\n  \r\n\r\nKindly use IBA tool to create ServiceNow Incidents/Service requests directly from SAP screen- Help Documents OR from SAP Digital Virtual assistant app in Teams - SAP Digital Assistant Help Documents \r\n\r\nNote: Full automation for Security Requests (Password Reset, User Unlock or Access Provisioning, check status) is now available for select SAP systems, with more coming soon! Check the training guide for details and start using the SAP Digital Assistant App, as we will be phasing out this Security SAP Service Desk feature. \r\n\r\n1st Escalation Point: amritha.d-ext@jci.com; dharmaraj.s-ext@jci.com \r\n\r\n2nd Escalation Point: kokila.anbarasu-ext@jci.com  \r\n\r\nEscalation Matrix\n\n2025-06-04 17:16:38 - Udhaya Priyan U (Work notes)\nHi Angelica Rocio De La Torre Bueno\r\n \r\nThis is regarding the ticket INC8664293 for MISSING AUTHORIZATION: INFO RECORD CREATE PLANT 1203\r\n \r\nIs it possible to provide the reference user who can able to access the transaction which you need to process in SAP YRP system.\n\n2025-06-02 12:28:38 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-02 12:28:37 - System (Work notes)\nTransition Action Status Code and Message = 0 ; Success\n\n2025-06-02 12:18:02 - System (Work notes)\nCode: ﻿0; Message: ﻿Success.\n\n",
+            "Additional Comments": "2025-06-04 17:20:30 - System (Additional comments)\nStatus Code: 204; Response:\n\n2025-06-02 12:28:39 - System (Additional comments)\nStatus Code: 204; Response:\n\n",
+            "Resolution Description": "",
+            "Resolution Item": "",
+            "Vendor Ticket Number": "SNOWSAP-42380"
+        },
+        {
+            "Number": "INC8669525",
+            "Sys Id": "01b8b23333f9e218efbd80373e5c7b5d",
+            "Affected User": "Yashvin Khindria",
+            "Manager": "cchngs@jci.com",
+            "Global id": "jmohany@jci.com",
+            "Email": "yashvin.khindria@jci.com",
+            "Active": true,
+            "Status": "Pending",
+            "Source": "System",
+            "Priority": "5",
+            "Impact": "Minor/Localized",
+            "Urgency": "Low",
+            "Category": "Software",
+            "Type": "SAP",
+            "Item": "GP",
+            "Created on": "2025-06-05 01:44:04",
+            "Created by": "api_user_sap",
+            "Updated on": "2025-06-12 13:53:11",
+            "Updated by": "jagrawsw@jci.com",
+            "Title": "OBJECT GP494GVQAMCJK5WMXMITRV2C552100 OF CLASS RE AND LANGUAGE EN",
+            "Description": "Error message : unable to view commitment cost again , this happening constantly ,sap team rectify and than again it happes . System Name : YRP ,SAP User ID : JMOHANY ,Tcode: START_REPORT ,Date: 2025-06-05 ,Time: 01:43:58 .",
+            "Assignment Group": "it.jc.sap-coe-l15.gl",
+            "Assigned to": "Swati Agrawal",
+            "Business Service": "SAP",
+            "Work notes": "2025-06-09 01:46:19 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-09 01:46:17 - System (Work notes)\nTransition Action Status Code and Message = 0;  Success\n\n2025-06-05 21:45:14 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-05 21:45:12 - System (Work notes)\nTransition Action Status Code and Message = 0 ; Success\n\n2025-06-04 23:50:56 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-04 23:50:55 - System (Work notes)\nTransition Action Status Code and Message = 0 ; Success\n\n2025-06-04 20:44:08 - System (Work notes)\nCode: ﻿0; Message: ﻿Success.\n\n",
+            "Additional Comments": "2025-06-12 08:53:11 - Swati Agrawal (Additional comments)\nSwati Agrawal added Yashvin Khindria and Sandhiya Devaraj to the chat.\r\n\r\n \r\nHi Yashvin Khindria please let us know when you are available for a call!!\r\n \r\nunable today..hope we can do tmrw!!!!\r\n \r\nHi Yashvin Khindria\r\n \r\nyes sure\r\n \r\nPlease ping here once you are available for call\r\n \r\ncan d now\r\n \r\nHi Sandhiya Devaraj are you ok now?\r\n \r\nWe can connect now yashvin\r\n \r\nok\r\n \r\n10:45 Call started\r\n\r\n \r\nSwati Agrawal\r\nHi Sandhiya Devaraj are you ok now?\r\nOk\r\n \r\n10:49 Call ended 4m 1s\n\n2025-06-12 08:52:42 - Swati Agrawal (Additional comments)\nHi Yashvin Khindria\r\n \r\nPlease let me know when you are available for a call\r\n \r\nhi swati..i will try to update for tmrw\r\n \r\nHi Yashvin\r\n \r\nWe need 10 to 15 min time only\r\n \r\ni unstand but im having back to back meetings in office..tmrw i will be free at 2pm..hope can assist for that\r\n \r\nOk\r\n \r\nNo Problem\r\n \r\nWe can connect tomorrow\r\n \r\nthanks\n\n2025-06-11 01:38:43 - Swati Agrawal (Additional comments)\nHi Yashvin Khindria\r\n \r\nHi Yashvin Khindria\r\n \r\nhi swati\r\n \r\nHi Yashvin\r\n \r\nWhen can we connect?\r\n \r\nhi swati..im caught in a meeting..maybe around 5pm can ?\r\n \r\nI will be available till 2:30 PM\r\n \r\nperhaps we can do wednesday ?\r\n \r\nIt will already pass 1 week than of ticket creation\r\n \r\nnoted \r\n \r\nOk once you are free please provide details of issue and snips if you can\r\n \r\nthis is an issue that is consistently repeating\r\n \r\nSwati Agrawal\r\n📷\r\nhere are all the previous snips and info\r\n \r\nOk let me check\n\n2025-06-09 01:46:20 - System (Additional comments)\nStatus Code: 204; Response:\n\n2025-06-06 09:53:41 - Swati Agrawal (Additional comments)\nHi Yashvin Khindria\r\n \r\nGood Day!!\r\n \r\nThis is regarding #INC8669525: OBJECT GP494GVQAMCJK5WMXMITRV2C552100 OF CLASS RE AND LANGUAGE EN\r\n \r\nhi swati..give me a while ya..in a meeting with client\r\n \r\nOk, sure \r\nHi Yashvin Khindria\n\n2025-06-05 21:45:14 - System (Additional comments)\nStatus Code: 204; Response:\n\n2025-06-04 23:50:57 - System (Additional comments)\nStatus Code: 204; Response:\n\n",
+            "Resolution Description": "",
+            "Resolution Item": "",
+            "Vendor Ticket Number": "SNOWSAP-42654"
+        },
+        {
+            "Number": "INC8678779",
+            "Sys Id": "0248d84233c22e90cd4878813d5c7b8c",
+            "Affected User": "Loek Mulders",
+            "Manager": "jhawins@jci.com",
+            "Global id": "jmuldel@jci.com",
+            "Email": "loek.mulders@jci.com",
+            "Active": true,
+            "Status": "Work In Progress",
+            "Source": "System",
+            "Priority": "5",
+            "Impact": "Minor/Localized",
+            "Urgency": "Low",
+            "Category": "Software",
+            "Type": "SAP",
+            "Item": "GP",
+            "Created on": "2025-06-11 13:49:29",
+            "Created by": "sap_digitalassistant_prd",
+            "Updated on": "2025-06-12 12:14:02",
+            "Updated by": "system",
+            "Title": "JSQ-Goods receipt posted incorrectly",
+            "Description": "RMA EMEA 430030385 was received with follow up action set to ''Return to Supplier''. This was incorrect and should have been ''Transfer to Scrap''. From my understanding, we are not able to reverse this without IT support., \rDate: 6/11/2025, \rTCode: 4910001057, \rRequested User: jmuldel@jci.com, \r,\nSystem Id: JSQ,\nClient Id: 100",
+            "Assignment Group": "it.jc.sap-coe-l15.gl",
+            "Assigned to": "Sireesha Vempati",
+            "Business Service": "SAP",
+            "Work notes": "2025-06-11 23:14:59 - Sireesha Vempati (Work notes)\nhi Loek Mulders\r\n \r\nRegarding INC8678779: JSQ-Goods receipt posted incorrectly\r\n \r\nplease let me know your feasible time to discuss about the issue\n\n2025-06-11 11:49:21 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-11 11:49:19 - System (Work notes)\nTransition Action Status Code and Message = 0 ; Success\n\n2025-06-11 08:49:33 - System (Work notes)\nCode: ﻿0; Message: ﻿Success.\n\n",
+            "Additional Comments": "2025-06-11 11:49:22 - System (Additional comments)\nStatus Code: 204; Response:\n\n",
+            "Resolution Description": "",
+            "Resolution Item": "",
+            "Vendor Ticket Number": "SNOWSAP-43087"
+        },
+        {
+            "Number": "INC8680278",
+            "Sys Id": "03cb38d2334ae2d0cd4878813d5c7b92",
+            "Affected User": "Pavol Filipek",
+            "Manager": "jmarkum@jci.com",
+            "Global id": "jfilipp@jci.com",
+            "Email": "pavol.filipek-ext@jci.com",
+            "Active": true,
+            "Status": "Work In Progress",
+            "Source": "System",
+            "Priority": "4",
+            "Impact": "Moderate/Limited",
+            "Urgency": "High",
+            "Category": "Software",
+            "Type": "SAP",
+            "Item": "GP",
+            "Created on": "2025-06-12 11:03:09",
+            "Created by": "sap_digitalassistant_prd",
+            "Updated on": "2025-06-12 12:12:20",
+            "Updated by": "system",
+            "Title": "JSP-Issue with scheduled lines being empty",
+            "Description": "In order 330745133 we had line 10 with no scheduled lines. After rebooking the item on line 20 the system now generated correctly scheduled lines. Could you investigate? And check if there are any other orders with empty scheduled lines?, \rDate: 6/12/2025, \rTCode: , \rRequested User: jfilipp@jci.com, \r,\nSystem Id: JSP,\nClient Id: 100",
+            "Assignment Group": "it.jc.sap-coe-l15.gl",
+            "Assigned to": "Giri Dharan",
+            "Business Service": "SAP",
+            "Work notes": "2025-06-12 07:12:19 - System (Work notes)\nUpdate Issue Status Code and Message = 0; Success\n\n2025-06-12 07:12:17 - System (Work notes)\nTransition Action Status Code and Message = 0 ; Success\n\n2025-06-12 06:03:12 - System (Work notes)\nCode: ﻿0; Message: ﻿Success.\n\n",
+            "Additional Comments": "2025-06-12 07:12:20 - System (Additional comments)\nStatus Code: 204; Response:\n\n",
+            "Resolution Description": "",
+            "Resolution Item": "",
+            "Vendor Ticket Number": "SNOWSAP-43158"
+        },
 
-https://mysite.jci.com/:u:/r/personal/jranjaa6_jci_com/Documents/Microsoft%20Teams%20Chat%20Files/app_273815_ewmapp_apk_android_9.0.0%20(1).apk?csf=1&web=1&e=YKSsQ8
+
+        GRC JOSN RESPONSE BELOW 
+
+         <link href="ZGRCSet" rel="self" title="ZGRCSet"/>
+    <entry>
+        <id>http://asapjfd.go.johnsoncontrols.com:8010/sap/opu/odata/sap/ZGRC_ODATA_SRV/ZGRCSet('268')</id>
+        <title type="text">ZGRCSet('268')</title>
+        <updated>2025-06-13T00:48:33Z</updated>
+        <category term="ZGRC_ODATA_SRV.ZGRC" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+        <link href="ZGRCSet('268')" rel="edit" title="ZGRC"/>
+        <content type="application/xml">
+            <m:properties xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices">
+                <d:Number>268</d:Number>
+                <d:Global_Id>JPRAKASO</d:Global_Id>
+                <d:Email>soma.prakash-ext@jci.com</d:Email>
+                <d:Status>PENDING</d:Status>
+                <d:Created_On>0 </d:Created_On>
+                <d:Title>Approval Required for access role request &lt;></d:Title>
+                <d:Description>Description placeholder</d:Description>
+                <d:Assigned_To>JDAAMI3</d:Assigned_To>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
